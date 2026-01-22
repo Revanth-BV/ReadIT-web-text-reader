@@ -1,4 +1,4 @@
-# Web Text Reader
+# ReadIT - Web Text Reader
 
 Web Text Reader is a free and privacy-friendly browser extension that reads selected text aloud on any webpage.
 
