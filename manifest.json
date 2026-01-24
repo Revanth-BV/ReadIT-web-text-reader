@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Web Text Reader",
+  "name": "ReadIt Web Text Reader",
   "description": "Select text on any webpage and listen instantly. Free, private, and works offline.",
   "version": "1.0.0",
   "icons": {
