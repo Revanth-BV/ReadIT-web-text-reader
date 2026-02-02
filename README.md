@@ -47,7 +47,7 @@ No login. No tracking. No ads. Works fully offline.
 
 ## 🌍 Chrome Web Store
 
-👉 (Add your store link here after approval)
+https://chromewebstore.google.com/detail/dlcgemjllmflmipdeebhbemeikakfgkc?utm_source=item-share-cb
 
 ---
 
